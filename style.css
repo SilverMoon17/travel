@@ -9,9 +9,9 @@ ul {
 a {
     text-decoration: none;
 }
-.footer {
+.footer__container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .footer__list {
     padding: 0;
